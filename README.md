@@ -1,7 +1,7 @@
-# Awesome Bug Bounty
-A comprehensive curated list of available Bug Bounty and Disclosure Programs
+# Awesome Bug Bounty [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A comprehensive curated list of available Bug Bounty and Disclosure Programs.
 
-## Available Programs
+### Available Programs
 - [123Contact Form](http://www.123contactform.com/contactus.html)
 - [99designs](https://hackerone.com/99designs/reports/new)
 - [Abacus](https://bugcrowd.com/abacus/report)
@@ -423,3 +423,7 @@ A comprehensive curated list of available Bug Bounty and Disclosure Programs
 - [Zomato](https://hackerone.com/zomato/reports/new)
 - [Zopim](https://hackerone.com/zopim/reports/new)
 - [Zynga](mailto:whitehat@zynga.com)
+
+
+### Contribution
+Your contributions are always welcome!
