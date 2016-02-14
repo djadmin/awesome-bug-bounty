@@ -3,7 +3,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 
 ## Table of Contentes
 - [Available Programs](#available-programs)
-- [Write Ups & Authors](#write-ups-&-authors)
+- [Write Ups & Authors](#write-ups--authors)
 - [Contribution](#contribution)
 
 ### Available Programs
