@@ -1,5 +1,10 @@
 # Awesome Bug Bounty [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A comprehensive curated list of available Bug Bounty and Disclosure Programs.
+A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters.
+
+## Table of Contentes
+- [Available Programs](#available-programs)
+- [Write Ups & Authors](#write-ups-&-authors)
+- [Contribution](#contribution)
 
 ### Available Programs
 - [123Contact Form](http://www.123contactform.com/security-acknowledgements.htm)
@@ -423,6 +428,26 @@ A comprehensive curated list of available Bug Bounty and Disclosure Programs.
 - [Zomato](https://hackerone.com/zomato)
 - [Zopim](https://hackerone.com/zopim)
 - [Zynga](mailto:whitehat@zynga.com)
+
+### Write Ups & Authors
+- [http://sakurity.com/blog](http://sakurity.com/blog)  -  by [Egor Homakov](https://twitter.com/homakov)
+- [http://respectxss.blogspot.in/](http://respectxss.blogspot.in/)  -  by [Ashar Javed](https://twitter.com/soaj1664ashar)
+- [http://labs.detectify.com/](http://labs.detectify.com/)  -  by [Frans Rosén](https://twitter.com/fransrosen)
+- [https://www.cliffordtrigo.info/](https://www.cliffordtrigo.info/)  -  by [Clifford Trigo](https://twitter.com/MrTrizaeron)
+- [http://stephensclafani.com/](http://stephensclafani.com/)  -  by [Stephen Sclafani](https://twitter.com/Stephen)
+- [http://sasi2103.blogspot.co.il/](httpsasi2103.blogspot.co.il/)  -  by [Sasi Levi] (https://twitter.com/sasi2103)
+- [http://www.pwnsecurity.net/](http://www.pwnsecurity.net/)  -  by [Shashank] (https://twitter.com/cyberboyIndia)
+- [https://www.breaksec.com/](https://www.breaksec.com/)  -  by [Nir Goldshlager] (https://twitter.com/Nirgoldshlager)
+- [http://pwndizzle.blogspot.in/](http://pwndizzle.blogspot.in/)  -  by [Alex Davies] (https://twitter.com/pwndizzle)
+- [http://c0rni3sm.blogspot.in/]([httpc0rni3sm.blogspot.in/)  -  by [yappare] (https://twitter.com/yappare)
+- [http://exploit.co.il/blog/](httpexploit.co.il/blog/)  -  by [Shai rod](https://twitter.com/NightRang3r)
+- [http://www.riyazwalikar.com/](http://www.riyazwalikar.com/)  -  by [Riyaz Ahemed Walikar](https://twitter.com/riyazwalikar)
+- [http://panchocosil.blogspot.in/](http://panchocosil.blogspot.in/)  -  by [Francisco Correa](https://twitter.com/@panchocosil)
+- [http://breakingmesh.blogspot.in/](http://breakingmesh.blogspot.in/)  -  by [Sahil Sehgal](https://twitter.com/xXSehgalXx)
+- [http://www.websecresearch.com/](http://www.websecresearch.com/)  -  by [ Ajay Singh Negi](https://twitter.com/ajaysinghnegi)
+- [http://www.securitylearn.net/about/](httpwww.securitylearn.net/about/)  -  by [Satish Bommisetty](https://twitter.com/satishb3)
+- [http://www.secinfinity.net/](http://www.secinfinity.net/)  -  by Prakash Sharma
+- [http://www.websecuritylog.com/](http://www.websecuritylog.com/)  -  by [jitendra jaiswal](https://twitter.com/jeetjaiswal22)
 
 
 ### Contribution
