@@ -119,6 +119,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [cPanel](mailto:security@cpanel.net)
 - [cPaperless](mailto:support@cPaperless.com)
 - [Crix.io](https://cobalt.io/crixio)
+- [CrowdShield](https://crowdshield.com/bug-bounty-list.php?bug_bounty_program=crowdshield)
 - [Cryptocat](https://github.com/cryptocat/cryptocat/issues)
 - [Cupcake](mailto:security@cupcake.io)
 - [CustomerInsight](mailto:admin@customerinsight.ca)
