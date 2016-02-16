@@ -1,7 +1,7 @@
 # Awesome Bug Bounty [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters.
 
-## Table of Contentes
+## Table of Contents
 - [Available Programs](#available-programs)
 - [Write Ups & Authors](#write-ups--authors)
 - [Contribution](#contribution)
