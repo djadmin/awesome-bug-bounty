@@ -4,7 +4,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 ## Table of Contents
 - [Available Programs](#available-programs)
 - [Write Ups & Authors](#write-ups--authors)
-- [Contribution](#contribution)
+- [Contribution guide](contributing.md)
 
 ### Available Programs
 - [123Contact Form](http://www.123contactform.com/security-acknowledgements.htm)
@@ -451,5 +451,8 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [http://www.websecuritylog.com/](http://www.websecuritylog.com/)  -  by [jitendra jaiswal](https://twitter.com/jeetjaiswal22)
 
 
-### Contribution
-Your contributions are always welcome!
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Dheeraj Joshi](https://github.com/djadmin) has waived all copyright and related or neighboring rights to this work.
