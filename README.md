@@ -32,6 +32,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [securitylearn.net](http://www.securitylearn.net/about/)  -  by [Satish Bommisetty](https://twitter.com/satishb3)
 - [secinfinity.net](http://www.secinfinity.net/)  -  by Prakash Sharma
 - [websecuritylog.com](http://www.websecuritylog.com/)  -  by [jitendra jaiswal](https://twitter.com/jeetjaiswal22)
+- [medium.com/@atom](https://medium.com/@atom) - by [Allan Jay Dumanhug](https://www.facebook.com/atooooooooooooooooom)
 
 ### Available Programs
 - [123Contact Form](http://www.123contactform.com/security-acknowledgements.htm)
