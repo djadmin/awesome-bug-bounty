@@ -198,7 +198,6 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Gemfury](mailto:security@gemfury.com)
 - [General Motors](https://hackerone.com/gm)
 - [GhostMail](https://hackerone.com/gmguys)
-- [GiftCards.com](mailto:sitesecurity@giftcards.com)
 - [GitHub](https://bounty.github.com/submit-a-vulnerability.html)
 - [GitLab](https://hackerone.com/gitlab)
 - [GlassWire](https://hackerone.com/glasswire)
