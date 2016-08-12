@@ -34,6 +34,13 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [websecuritylog.com](http://www.websecuritylog.com/)  -  by [jitendra jaiswal](https://twitter.com/jeetjaiswal22)
 - [medium.com/@atom](https://medium.com/@atom) - by [Allan Jay Dumanhug](https://www.facebook.com/atooooooooooooooooom)
 
+### Platforms
+- [Bountysource](https://www.bountysource.com/)
+- [Bounty Factory](https://bountyfactory.io/)
+- [Coder Bounty](http://www.coderbounty.com/)
+- [FreedomSponsors](https://freedomsponsors.org/)
+- [FOSS Factory](http://www.fossfactory.org/)
+
 ### Available Programs
 - [123Contact Form](http://www.123contactform.com/security-acknowledgements.htm)
 - [99designs](https://hackerone.com/99designs)
