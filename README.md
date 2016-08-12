@@ -4,6 +4,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Write Ups & Authors](#write-ups--authors)
+- [Platforms](#platforms)
 - [Available Programs](#available-programs)
 - [Contribution guide](contributing.md)
 
@@ -35,6 +36,9 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [medium.com/@atom](https://medium.com/@atom) - by [Allan Jay Dumanhug](https://www.facebook.com/atooooooooooooooooom)
 
 ### Platforms
+- [HackerOne](https://hackerone.com/)
+- [Bugcrowd](https://bugcrowd.com/)
+- [Cobalt](https://cobalt.io/)
 - [Bountysource](https://www.bountysource.com/)
 - [Bounty Factory](https://bountyfactory.io/)
 - [Coder Bounty](http://www.coderbounty.com/)
