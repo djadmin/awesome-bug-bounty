@@ -26,7 +26,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [pwndizzle.blogspot.in](http://pwndizzle.blogspot.in/)  -  by [Alex Davies] (https://twitter.com/pwndizzle)
 - [c0rni3sm.blogspot.in](http://c0rni3sm.blogspot.in/)  -  by [yappare] (https://twitter.com/yappare)
 - [exploit.co.il/blog](http://exploit.co.il/blog/)  -  by [Shai rod](https://twitter.com/NightRang3r)
-- [riyazwalikar.com](http://www.riyazwalikar.com/)  -  by [Riyaz Ahemed Walikar](https://twitter.com/riyazwalikar)
+- [ibreak.software](https://ibreak.software/)  -  by [Riyaz Ahemed Walikar](https://twitter.com/riyazwalikar)
 - [panchocosil.blogspot.in](http://panchocosil.blogspot.in/)  -  by [Francisco Correa](https://twitter.com/@panchocosil)
 - [breakingmesh.blogspot.in](http://breakingmesh.blogspot.in/)  -  by [Sahil Sehgal](https://twitter.com/xXSehgalXx)
 - [websecresearch.com](http://www.websecresearch.com/)  -  by [ Ajay Singh Negi](https://twitter.com/ajaysinghnegi)
