@@ -408,7 +408,6 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Subrosa](https://cobalt.io/subrosa)
 - [Sucuri](https://hackerone.com/sucuri)
 - [Symantec](mailto:secure@symantec.com)
-- [Tagged](https://bugcrowd.com/tagged)
 - [Taptalk](https://hackerone.com/taptalk)
 - [Tarsnap](mailto:cperciva@tarsnap.com)
 - [TeamUnify](mailto:security@teamunify.com)
