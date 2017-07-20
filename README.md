@@ -326,6 +326,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Oracle](mailto:secalert_us@oracle.com)
 - [ownCloud](https://hackerone.com/owncloud)
 - [PagerDuty](mailto:security@pagerduty.com)
+- [Panasonic Avionics](https://hackerone.com/panasonic-aero)
 - [Pantheon](https://bugcrowd.com/pantheon)
 - [Panzura](mailto:security@panzura.com)
 - [Paragon Initiative Enterprises](https://hackerone.com/paragonie)
