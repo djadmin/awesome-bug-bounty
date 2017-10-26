@@ -13,7 +13,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Researcher Resources - How to become a Bug Bounty Hunter](https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102)
 - [Bug Bounties 101](https://whitton.io/articles/bug-bounties-101-getting-started/)
 - [The life of a bug bounty hunter](http://www.alphr.com/features/378577/q-a-the-life-of-a-bug-bounty-hunter)
-
+- [Awsome list of bugbounty cheatsheets](https://github.com/EdOverflow/bugbounty-cheatsheet)
 ### Write Ups & Authors
 - [sakurity.com/blog](http://sakurity.com/blog)  -  by [Egor Homakov](https://twitter.com/homakov)
 - [respectxss.blogspot.in](http://respectxss.blogspot.in/)  -  by [Ashar Javed](https://twitter.com/soaj1664ashar)
