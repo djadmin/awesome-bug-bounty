@@ -444,6 +444,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Volusion](https://bugcrowd.com/volusion)
 - [VPNSox](https://cobalt.io/vpnsox)
 - [vulners.com](https://hackerone.com/vulnerscom)
+- [Vultr](https://www.vultr.com/bug-bounty/)
 - [Webconverger](mailto:security@webconverger.com)
 - [Websecurify](http://campaigns.websecurify.com/money-for-bugs/#contact)
 - [Weebly](https://cobalt.io/weebly)
