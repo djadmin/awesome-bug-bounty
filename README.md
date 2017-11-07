@@ -271,6 +271,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Librato](mailto:security@librato.com)
 - [LibSass](https://hackerone.com/libsass)
 - [Liferay](mailto:security@liferay.com)
+- [Line](https://bugbounty.linecorp.com/en/)
 - [LinkedIn](mailto:security@linkedin.com)
 - [LiveEnsure](http://www.liveensure.com/contact.php)
 - [LocalBitcoins](https://cobalt.io/localbitcoins)
