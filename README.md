@@ -49,6 +49,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [FreedomSponsors](https://freedomsponsors.org/)
 - [FOSS Factory](http://www.fossfactory.org/)
 - [Synack](https://www.synack.com/)
+- [Detectify](https://cs.detectify.com/)
 
 ### Available Programs
 - [123Contact Form](http://www.123contactform.com/security-acknowledgements.htm)
