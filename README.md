@@ -306,7 +306,6 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Motorola Solutions](mailto:security@motorolasolutions.com)
 - [Mozilla](https://www.mozilla.org/en-US/security/bug-bounty/)
 - [mynxt.info](https://cobalt.io/mynxt-info)
-- [Natures Organics](mailto:ict@naturesorganics.com.au)
 - [NCSC](mailto:cert@ncsc.nl)
 - [Nearby Live](https://hackerone.com/nearby)
 - [Nest](mailto:security@nest.com)
