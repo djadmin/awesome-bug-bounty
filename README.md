@@ -221,6 +221,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [GlobaLeaks](https://hackerone.com/globaleaks)
 - [Google PRP](mailto:security-patches@google.com)
 - [Google VRP](https://www.google.com/about/appsecurity/reward-program/index.html)
+- [Grammarly](https://hackerone.com/grammarly)
 - [Gratipay](https://hackerone.com/gratipay)
 - [GreenAddress](https://cobalt.io/greenaddress)
 - [Greenhouse.io](https://hackerone.com/greenhouse)
