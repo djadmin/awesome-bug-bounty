@@ -476,6 +476,9 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Zopim](https://hackerone.com/zopim)
 - [Zynga](mailto:whitehat@zynga.com)
 
+## Aggregators
+
+- [BountyHQ](https://bountyhq.secapps.com/)
 
 ## License
 
