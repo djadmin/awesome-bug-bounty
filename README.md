@@ -395,6 +395,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [SiteGround](mailto:responsible-disclosure@siteground.com)
 - [Skoodat](mailto:security@skoodat.com)
 - [Skrill](https://cobalt.io/skrill)
+- [Skyscanner](https://bugcrowd.com/skyscanner)
 - [Slack](https://hackerone.com/slack)
 - [Snapchat](https://hackerone.com/snapchat)
 - [Snappy](mailto:security@userscape.com)
