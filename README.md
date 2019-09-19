@@ -339,7 +339,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Neverdie Smart Contract](https://hackenproof.com/neverdie/neverdie-smart-contract)
 - [Neverdie Web](https://hackenproof.com/neverdie/neverdie-web)
 - [Nexmo](https://cobalt.io/nexmo)
-- [Nexuzhealth(https://go.intigriti.com/nexushealth)
+- [Nexuzhealth](https://go.intigriti.com/nexushealth)
 - [Nexuzhealth Web PACS](https://go.intigriti.com/nexuzhealthwebpacs)
 - [Nginx](https://hackerone.com/ibb-nginx)
 - [Nitrous](mailto:security@nitrous.io)
