@@ -145,6 +145,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Circle](https://cobalt.io/circle)
 - [CircleCI](mailto:security@circleci.com)
 - [Cisco](http://www.cisco.com/web/about/security/psirt/security_vulnerability_policy.html#roosfassv)
+- [ClickUp](https://clickup.com/bug-bounty)
 - [Clojars](mailto:contact@clojars.org)
 - [CloudFlare](https://hackerone.com/cloudflare)
 - [Cobalt](https://cobalt.io/cobalt)
