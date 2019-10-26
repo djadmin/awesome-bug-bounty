@@ -52,6 +52,13 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Synack](https://www.synack.com/)
 - [HackenProof](https://hackenproof.com/)
 - [Detectify](https://cs.detectify.com/)
+- [Bugbountyjp](https://bugbounty.jp/)
+- [Safehats](https://safehats.com/)
+- [BugbountyHQ](https://www.bugbountyhq.com/)
+- [Hackerhive](https://hackerhive.io/)
+- [Hacktrophy](https://hacktrophy.com/)
+- [AntiHACK](https://www.antihack.me/)
+- [CESPPA](https://www.cesppa.com/)
 
 ### Available Programs
 - [123Contact Form](http://www.123contactform.com/security-acknowledgements.htm)
