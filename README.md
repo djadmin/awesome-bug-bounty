@@ -14,7 +14,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Bug Bounties 101](https://whitton.io/articles/bug-bounties-101-getting-started/)
 - [The life of a bug bounty hunter](http://www.alphr.com/features/378577/q-a-the-life-of-a-bug-bounty-hunter)
 - [Awsome list of bugbounty cheatsheets](https://github.com/EdOverflow/bugbounty-cheatsheet)
-- [Getting Started - Bug Bounty Hunter Methodology](https://blog.bugcrowd.com/getting-started-bug-bounty-hunter-methodology)
+- [Getting Started - Bug Bounty Hunter Methodology](https://www.bugcrowd.com/blog/getting-started-bug-bounty-hunter-methodology)
 
 ### Write Ups & Authors
 - [sakurity.com/blog](http://sakurity.com/blog)  -  by [Egor Homakov](https://twitter.com/homakov)
