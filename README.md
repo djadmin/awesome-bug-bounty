@@ -379,6 +379,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Paychoice](mailto:security@paychoice.com.au)
 - [PayMill](mailto:security@paymill.com)
 - [PayPal](mailto:https://www.paypal.com/bugbounty/register)
+- [Paytm](https://bugbounty.paytm.com)
 - [Perl](https://hackerone.com/ibb-perl)
 - [Phabricator](https://hackerone.com/phabricator)
 - [PHP](https://bugs.php.net/report.php)
