@@ -285,6 +285,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Kenna](https://bugcrowd.com/riskio)
 - [Keybase](https://hackerone.com/keybase)
 - [Khan Academy](https://hackerone.com/khanacademy)
+- [SKB Kontur](https://kontur.ru/.well-known/security.txt)
 - [Kraken](mailto:bugbounty@kraken.com)
 - [Kinepolis](https://go.intigriti.com/kinepolis)
 - [Kuna](https://hackenproof.com/kuna/kuna-crypto-exchange)
