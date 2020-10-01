@@ -15,6 +15,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [The life of a bug bounty hunter](http://www.alphr.com/features/378577/q-a-the-life-of-a-bug-bounty-hunter)
 - [Awsome list of bugbounty cheatsheets](https://github.com/EdOverflow/bugbounty-cheatsheet)
 - [Getting Started - Bug Bounty Hunter Methodology](https://www.bugcrowd.com/blog/getting-started-bug-bounty-hunter-methodology)
+- [Web-Application-Pentetration-Testing](https://docs.google.com/document/d/101EsKlu41ICdeE7mEv189SS8wMtcdXfRtua0ClYjP1M/mobilebasic)
 
 ### Write Ups & Authors
 - [sakurity.com/blog](http://sakurity.com/blog)  -  by [Egor Homakov](https://twitter.com/homakov)
