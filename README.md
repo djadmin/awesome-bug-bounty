@@ -60,6 +60,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Hacktrophy](https://hacktrophy.com/)
 - [AntiHACK](https://www.antihack.me/)
 - [CESPPA](https://www.cesppa.com/)
+- [Federacy](https://www.federacy.com/)
 
 ### Available Programs
 - [123Contact Form](http://www.123contactform.com/security-acknowledgements.htm)
