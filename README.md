@@ -15,6 +15,8 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [The life of a bug bounty hunter](http://www.alphr.com/features/378577/q-a-the-life-of-a-bug-bounty-hunter)
 - [Awsome list of bugbounty cheatsheets](https://github.com/EdOverflow/bugbounty-cheatsheet)
 - [Getting Started - Bug Bounty Hunter Methodology](https://www.bugcrowd.com/blog/getting-started-bug-bounty-hunter-methodology)
+- [Web Penetration Testing](https://github.com/xd20111/bugbounty)
+- [IoT-Pentesting-Methodology](https://github.com/adi0x90/IoT-Pentesting-Methodology)
 
 ### Write Ups & Authors
 - [sakurity.com/blog](http://sakurity.com/blog)  -  by [Egor Homakov](https://twitter.com/homakov)
