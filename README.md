@@ -529,6 +529,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Zomato](https://hackerone.com/zomato)
 - [Zopim](https://hackerone.com/zopim)
 - [Zynga](mailto:whitehat@zynga.com)
+- [Relativity](https://hackerone.com/relativity/)
 
 ## Aggregators
 
