@@ -60,6 +60,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Hacktrophy](https://hacktrophy.com/)
 - [AntiHACK](https://www.antihack.me/)
 - [CESPPA](https://www.cesppa.com/)
+- [Bug bounty platforms @ Rawsec Inventory](https://inventory.raw.pm/resources.html#title-resources-bug-bounty-and-disclosure-platforms) - Complete list of Bug bounty platforms
 
 ### Available Programs
 - [123Contact Form](http://www.123contactform.com/security-acknowledgements.htm)
