@@ -15,6 +15,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [The life of a bug bounty hunter](http://www.alphr.com/features/378577/q-a-the-life-of-a-bug-bounty-hunter)
 - [Awesome list of bugbounty cheatsheets](https://github.com/EdOverflow/bugbounty-cheatsheet)
 - [Getting Started - Bug Bounty Hunter Methodology](https://www.bugcrowd.com/blog/getting-started-bug-bounty-hunter-methodology)
+- [ReconOps](https://github.com/expl0itlab/ReconOps) - A structured recon-only framework for bug bounty hunters. 6-tier methodology, 40+ tools, automation scripts and checklists.
 
 ### Write Ups & Authors
 - [sakurity.com/blog](http://sakurity.com/blog)  -  by [Egor Homakov](https://twitter.com/homakov)
