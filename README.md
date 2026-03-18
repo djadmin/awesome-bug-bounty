@@ -537,6 +537,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 ## Aggregators
 
 - [BountyHQ](https://bountyhq.secapps.com/)
+- [Awesome Agent Bounties](https://github.com/Scottcjn/awesome-agent-bounties) - Curated list of open source projects paying contributors and AI agents for code, docs, and security work.
 
 ## License
 
