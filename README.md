@@ -6,6 +6,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Write Ups & Authors](#write-ups--authors)
 - [Platforms](#platforms)
 - [Available Programs](#available-programs)
+- [Tools](#tools)
 - [Contribution guide](contributing.md)
 
 ### Getting Started
@@ -533,6 +534,9 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Zopim](https://hackerone.com/zopim)
 - [Zynga](mailto:whitehat@zynga.com)
 - [Coding Ninjas](https://www.codingninjas.com/bug-bounty)
+
+### Tools
+- [VulnHawk](https://github.com/momenbasel/vulnhawk) - AI-powered static analysis tool that finds business logic vulnerabilities like missing authorization, IDOR chains, and inconsistent validation across codebases. Chains with Semgrep/CodeQL SARIF output.
 
 ## Aggregators
 
