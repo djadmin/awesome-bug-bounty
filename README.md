@@ -37,6 +37,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [websecuritylog.com](http://www.websecuritylog.com/)  -  by [jitendra jaiswal](https://twitter.com/jeetjaiswal22)
 - [medium.com/@ajdumanhug](https://medium.com/@ajdumanhug) - by [Allan Jay Dumanhug](https://www.twitter.com/ajdumanhug)
 - [Web Hacking 101](https://leanpub.com/web-hacking-101) - by [Peter Yaworski](https://twitter.com/yaworsk)
+- [HTB Writeups](https://github.com/momenbasel/htb-writeups)  -  by [Moamen Basel](https://github.com/momenbasel)
 
 
 ### Platforms
