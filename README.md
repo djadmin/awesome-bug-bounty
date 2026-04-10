@@ -1,6 +1,7 @@
 # Awesome Bug Bounty [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=djadmin_awesome-bug-bounty) - Follow developers on GitHub and get a feed of what they star and build.
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Write Ups & Authors](#write-ups--authors)
