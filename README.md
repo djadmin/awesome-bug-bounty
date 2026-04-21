@@ -9,6 +9,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Contribution guide](contributing.md)
 
 ### Getting Started
+- [Akira](https://github.com/Kalp1774/akira) - Open-source AI pentest co-pilot that runs inside Claude Code, Gemini CLI, and Cursor. Chains recon, secret hunting, exploitation, and reporting across a session - each phase hands its findings to the next. Requires HTTP evidence for every finding before flagging it.
 - [How to Become a Successful Bug Bounty Hunter](https://hackerone.com/blog/what-great-hackers-share)
 - [Researcher Resources - How to become a Bug Bounty Hunter](https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102)
 - [Bug Bounties 101](https://whitton.io/articles/bug-bounties-101-getting-started/)
