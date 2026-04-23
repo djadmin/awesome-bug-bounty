@@ -15,6 +15,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [The life of a bug bounty hunter](http://www.alphr.com/features/378577/q-a-the-life-of-a-bug-bounty-hunter)
 - [Awesome list of bugbounty cheatsheets](https://github.com/EdOverflow/bugbounty-cheatsheet)
 - [Getting Started - Bug Bounty Hunter Methodology](https://www.bugcrowd.com/blog/getting-started-bug-bounty-hunter-methodology)
+- [HackMyIP - Free Online Security Toolkit](https://hackmyip.com) - 20 free tools for recon: IP lookup, port scanner, DNS, whois, SSL checker, HTTP headers, email breach check, and more. No registration.
 
 ### Write Ups & Authors
 - [sakurity.com/blog](http://sakurity.com/blog)  -  by [Egor Homakov](https://twitter.com/homakov)
