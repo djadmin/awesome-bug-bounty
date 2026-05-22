@@ -61,6 +61,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [AntiHACK](https://www.antihack.me/)
 - [CESPPA](https://www.cesppa.com/)
 - [BountyHub](https://bountyhub.dev)
+- [BugBounty-Arsenal](https://bugbounty-arsenal.net)
 
 ### Available Programs
 - [123Contact Form](http://www.123contactform.com/security-acknowledgements.htm)
