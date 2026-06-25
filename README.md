@@ -537,6 +537,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 ## Aggregators
 
 - [BountyHQ](https://bountyhq.secapps.com/)
+- [DomainIntel API](https://domainintel.onrender.com) — Free domain intelligence (RDAP, DNS, certificate transparency) for bug bounty recon.
 
 ## License
 
