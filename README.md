@@ -443,6 +443,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Slack](https://hackerone.com/slack)
 - [Snapchat](https://hackerone.com/snapchat)
 - [Snappy](mailto:security@userscape.com)
+- [Soldera](https://www.soldera.org/terms/vdp)
 - [Sonatype](mailto:security@sonatype.com)
 - [Sony](https://secure.sony.net/form)
 - [SoundCloud](https://scsecurity.freshdesk.com/support/tickets/new)
