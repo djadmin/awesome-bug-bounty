@@ -326,6 +326,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Marktplatts](https://hackerone.com/marktplaats)
 - [Mavenlink](https://hackerone.com/mavenlink)
 - [Maximum](https://hackerone.com/maximum)
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform and MCP host covering web, API, Active Directory and Kubernetes, with proof of exploitation and a local privacy gateway.
 - [MCProHosting](https://bugcrowd.com/mcprohostings)
 - [MEGA](mailto:bugs@mega.co.nz)
 - [Mercury](https://cobalt.io/mercury)
