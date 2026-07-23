@@ -1,27 +1,53 @@
-# Contribution Guidelines
+# Contributing to Awesome Bug Bounty
 
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+Thank you for your interest in contributing!
 
--
+## Guidelines for Adding Entries
 
-Ensure your pull request adheres to the following guidelines:
+### Adding New Bug Bounty Programs
+1. **Research & Verify**:
+   - Program is active and accepting reports
+   - Clear security policy exists
+   - Links are working and accessible
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Suggested programs should be available and not outdated.
-- Make an individual pull request for each suggestion.
-- Use the following format: `[program](link) - Description.`
-- Additions should be added to the bottom of the relevant category.
-- New categories, or improvements to the existing categorization are welcome.
-- Link to the disclosure programs, not main website.
-- Keep descriptions short and simple, but descriptive.
-- Don't mention `hackerone/bugcrowd` in the description as it's implied.
-- Start the description with a capital and end with a full stop/period.
-- Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
-- The pull request should have a useful title and include a link to the package and why it should be included.
+2. **Format**: Follow existing style
+   - Programs: `- [Company Name](URL or email)`
+   - Platforms: `- [Platform Name](URL)`
+   - Keep entries **alphabetically ordered**
 
-Thank you for your suggestion!
+3. **Placement**: Add to appropriate section
+   - Bug bounty platforms → Platforms section
+   - Company programs → Available Programs section
+   - Aggregators → Aggregators section
 
-### Updating your PR
+### Updating Existing Entries
+- Fix broken links
+- Update outdated URLs
+- Improve formatting
 
-A lot of times, making a PR adhere to the standards above can be difficult. If the maintainers notice anything that we'd like changed, we'll ask you to edit your PR before we merge it. If you're not sure how to do that, [here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) on the different ways you can update your PR so that we can merge it.
+### Pull Request Process
+1. Fork the repository
+2. Make your changes
+3. Ensure alphabetical order is maintained
+4. Provide a clear description of changes
+5. Submit PR for review
+
+### What We Accept
+✓ New legitimate bug bounty programs
+✓ Fixing broken/outdated links
+✓ Improving documentation
+✓ Adding new platforms or aggregators
+
+✗ Promotional content
+✗ Spam or low-quality entries
+
+### Found an Issue?
+Open an issue with:
+- The problematic entry
+- What needs to be fixed
+- Why the change is needed
+
+### Code of Conduct
+Please read our [Code of Conduct](code-of-conduct.md).
+
+Thank you for contributing! 🙏
