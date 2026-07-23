@@ -15,6 +15,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [The life of a bug bounty hunter](http://www.alphr.com/features/378577/q-a-the-life-of-a-bug-bounty-hunter)
 - [Awesome list of bugbounty cheatsheets](https://github.com/EdOverflow/bugbounty-cheatsheet)
 - [Getting Started - Bug Bounty Hunter Methodology](https://www.bugcrowd.com/blog/getting-started-bug-bounty-hunter-methodology)
+- [anve-offsec](https://github.com/ANVEAI/anve-offsec) - Autonomous AI security engineer & bug bounty platform in Kali Linux featuring stateful Hermes reasoning, OpenClaw Chromium browser sidecar, and Qdrant vector strategy RAG. 🇮🇳
 
 ### Write Ups & Authors
 - [sakurity.com/blog](http://sakurity.com/blog)  -  by [Egor Homakov](https://twitter.com/homakov)
