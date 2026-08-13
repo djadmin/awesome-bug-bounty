@@ -127,6 +127,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [BlackBerry](https://global.blackberry.com/secure/report-an-issue/en.html)
 - [Blackboard](mailto:learnsecurity@blackboard.com)
 - [Blackphone](https://bugcrowd.com/blackphone)
+- [BlazePhoenix](https://blazephoenix.xyz/bounty)
 - [Blesta](mailto:security@blesta.com)
 - [Block.io](https://hackerone.com/blockio)
 - [Block.io, Inc.](https://cobalt.io/block-io-inc)
