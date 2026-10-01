@@ -537,6 +537,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 ## Aggregators
 
 - [BountyHQ](https://bountyhq.secapps.com/)
+- [Bug Bounties](https://github.com/lissy93/bug-bounties)
 
 ## License
 
