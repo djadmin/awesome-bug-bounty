@@ -398,7 +398,6 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [PullReview](mailto:security@pullreview.com)
 - [Puppet labs](mailto:security@puppetlabs.com)
 - [PureVPN](https://bugcrowd.com/purevpn)
-- [Python](mailto:security@python.org)
 - [QIWI](https://hackerone.com/qiwi)
 - [Quadriga CX](https://cobalt.io/quadriga-cx)
 - [QuickBT](https://cobalt.io/quickbt)
