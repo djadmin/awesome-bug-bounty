@@ -2,6 +2,7 @@
 A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters.
 
 ## Table of Contents
+- [Insomnia Security MCP](https://github.com/vulnz/insomnia-mcp) - 159 native cybersecurity, multi-language SAST/taint, live secret validation, SCA/SBOM, Web DAST, OSINT, 21,100+ 1-Day CVE verification, 29-protocol enumeration & Outbound Internal Network Tunnel v4.0 MCP tools (`https://mcp.insom.ai/mcp`, 50 free credits).
 - [Getting Started](#getting-started)
 - [Write Ups & Authors](#write-ups--authors)
 - [Platforms](#platforms)
